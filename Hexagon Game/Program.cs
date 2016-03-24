@@ -10,6 +10,7 @@ namespace Hexagon_Game
     {
         static void Main(string[] args)
         {
+            wow omg does this work?
         }
     }
 }
